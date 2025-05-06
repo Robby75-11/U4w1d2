@@ -10,7 +10,7 @@ public class Bolletta {
         System.out.println("Inserisci il consumo di acqua");
         int consumo = scanner.nextInt();
 
-        double bolletta = 20;
+        double bolletta = 40;
 
         if(consumo<=100){
             bolletta = bolletta + consumo*2.5;
