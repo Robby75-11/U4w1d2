@@ -1,4 +1,4 @@
-package esercizi_if;
+package esercizi_cicli;
 
 import java.util.Scanner;
 
